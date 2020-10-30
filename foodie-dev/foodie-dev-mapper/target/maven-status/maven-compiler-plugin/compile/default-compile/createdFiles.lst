@@ -1,0 +1,14 @@
+com\boil\mapper\ItemsParamMapper.class
+com\boil\mapper\ItemsImgMapper.class
+com\boil\mapper\StudentMapper.class
+com\boil\mapper\OrderItemsMapper.class
+com\boil\mapper\CategoryMapper.class
+com\boil\mapper\ItemsMapper.class
+com\boil\mapper\UsersMapper.class
+com\boil\mapper\ItemsSpecMapper.class
+com\boil\mapper\OrderStatusMapper.class
+com\boil\mapper\CarouseMapper.class
+com\boil\mapper\ItemsCommentsMapper.class
+com\boil\my\mapper\MyMapper.class
+com\boil\mapper\OrdersMapper.class
+com\boil\mapper\UserAddressMapper.class
